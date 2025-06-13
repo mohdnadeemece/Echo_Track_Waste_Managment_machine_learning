@@ -1,2 +1,2 @@
-# Echo_Track_Waste_Managment_machine_learning
-Echo_Track_Waste_Managment machine learning project 
+# Echo_Track_Waste_Managment_prediction
+#My system spec not enough to create graph that why showing error that is not error 
